@@ -1,1 +1,1 @@
-Exploring and Classifying Indian Food Images using Machine Learning
+Intro to Data Analysis and Machine Learning
